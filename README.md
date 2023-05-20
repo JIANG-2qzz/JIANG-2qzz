@@ -2,6 +2,7 @@
 
 无限进步
 
+```
 name: Full-year calendar
 uses: lowlighter/metrics@latest
 with:
@@ -10,3 +11,4 @@ with:
   base: ""
   plugin_isocalendar: yes
   plugin_isocalendar_duration: full-year
+```
